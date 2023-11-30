@@ -1,3 +1,3 @@
-import steamlit
+import steam
 
-streamlit.title('My Parents New Healthy Diner')
+stream.title('My Parents New Healthy Diner')
